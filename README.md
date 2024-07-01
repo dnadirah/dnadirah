@@ -1,4 +1,4 @@
-## <samp>&gt; Hi there, I'm Nadirah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+## <samp>&gt; Hi there, I'm Nadirah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp> <img src="https://komarev.com/ghpvc/?username=dnadirah&label=Profile%20views&color=0e75b6&style=flat" alt="dnadirah" />
 
 👋🏻 Aspiring full stack developer with a solid educational background in Computer Science, holding both a diploma and degree. Despite being currently unemployed, I have honed my skills in front-end and back-end web development, mastering HTML CSS, JavaScript, PHP, Java and SQL.
 
@@ -30,7 +30,7 @@
 
 <br>
 
-📈 **My GitHub Stats:**
+📈 **My GitHub Stats:** 
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnadirah&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
